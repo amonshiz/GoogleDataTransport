@@ -49,9 +49,9 @@ http_archive(
 
 http_archive(
     name = "GoogleUtilities",
-    sha256 = "38cde1b45a833135fd1a454782e03271bb0f233ef9a415b7f66a6dac59fa5a88",
-    strip_prefix = "GoogleUtilities-c7ac00b1959c7151cd646db4d31c6bec91f7a58b",
-    url = "https://github.com/amonshiz/GoogleUtilities/archive/c7ac00b1959c7151cd646db4d31c6bec91f7a58b.tar.gz",
+    sha256 = "8be60b79764575627eccdd7ae258fb4cc6e0af123d52bc47b2a412001a544588",
+    strip_prefix = "GoogleUtilities-97ff01e2c8c39fe4841e6728e1f3e62802088faa",
+    url = "https://github.com/amonshiz/GoogleUtilities/archive/97ff01e2c8c39fe4841e6728e1f3e62802088faa.tar.gz",
 )
 
 http_archive(

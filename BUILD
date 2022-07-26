@@ -19,7 +19,7 @@ objc_library(
         "-DGDTCOR_VERSION='9.2.0'",
     ],
     includes = [
-        "GoogleDataTransport/GDTCORLibrary/Public/GoogleDataTransport",
+        "GoogleDataTransport/GDTCORLibrary/Public",
     ],
     module_name = "GoogleDataTransport",
     sdk_dylibs = [
